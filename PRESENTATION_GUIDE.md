@@ -1,6 +1,7 @@
 # Sudoku Solver: Constraint Satisfaction Problem (CSP) Presentation Guide
 
 > **Generated PowerPoint File**: [Sudoku_CSP_Presentation.pptx](file:///c:/Users/HP/Desktop/Sudoku-Solver/Sudoku_CSP_Presentation.pptx)  
+> **Authors / Presenters**: Aastha Dhoundiyal & Vedant Misra  
 > **Course**: Artificial Intelligence & Soft Computing  
 > **Topic**: Constraint Satisfaction Problems (CSP), State-Space Search & Backtracking Heuristics
 
@@ -11,9 +12,10 @@
 ### Slide 1: Title & Introduction
 - **Slide Title**: Sudoku Solver Using Constraint Satisfaction Problem (CSP)
 - **Subtitle**: Modeling, State-Space Search, Backtracking, and Heuristics
+- **Authors**: Aastha Dhoundiyal & Vedant Misra
 - **Visuals**: Dark slate theme, accent badges, core paradigm tags.
 - **Speaker Script**:
-  > *"Good morning/afternoon respected professors and examiners. Today, I am presenting my project: solving Sudoku formulated as a Constraint Satisfaction Problem (CSP) within Artificial Intelligence. We will look at how the problem is modeled using the standard CSP triplet $\langle X, D, C \rangle$, how systematic depth-first backtracking with constraint pruning bypasses an astronomical search space of $9^{81}$, and how this is implemented in an interactive web application with real-time constraint validation."*
+  > *"Good morning/afternoon respected professors and examiners. Today, we are presenting our project: solving Sudoku formulated as a Constraint Satisfaction Problem (CSP) within Artificial Intelligence. We will look at how the problem is modeled using the standard CSP triplet $\langle X, D, C \rangle$, how systematic depth-first backtracking with constraint pruning bypasses an astronomical search space of $9^{81}$, and how this is implemented in an interactive web application with real-time constraint validation."*
 
 ---
 
